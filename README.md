@@ -54,4 +54,6 @@ Autor:
 
 Juan Pablo Morales Tames
 
-Estudiante Ing. de Sistemas
+Estudiante Ing. de Sistemas 
+
+Colombia
