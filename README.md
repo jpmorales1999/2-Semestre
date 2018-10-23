@@ -9,11 +9,13 @@ Repositorio para proyectos y trabajos
 - Talleres
 - Proyectos
 
+
 ## Repositorio General
 
 | Materia | Ir a |
 |--|--|
 | Estructura de Datos I | [General](https://github.com/jpmorales1999/2-Semestre/tree/master/Estructura%20de%20Datos%20I) |
+
 
 ## Corte #1 💻🖥
 
@@ -23,6 +25,7 @@ Repositorio para proyectos y trabajos
 |--|--|
 | Estructura de Datos I | [Ejercicios Básicos](https://github.com/jpmorales1999/2-Semestre/tree/master/Estructura%20de%20Datos%20I/Corte-1/Ejercicios%20Basicos) [Funciones](https://github.com/jpmorales1999/2-Semestre/tree/master/Estructura%20de%20Datos%20I/Corte-1/Funciones) |
 
+
 ## Corte #2 💻🖥
 
 **Talleres - Parcial - Proyectos**
@@ -30,6 +33,7 @@ Repositorio para proyectos y trabajos
 | Materia | Ir a |
 |--|--|
 | Estructura de Datos I | [Estructuras](https://github.com/jpmorales1999/2-Semestre/tree/master/Estructura%20de%20Datos%20I/Corte-2/Estructuras) [Punteros](https://github.com/jpmorales1999/2-Semestre/tree/master/Estructura%20de%20Datos%20I/Corte-2/Punteros) [Proyecto](https://github.com/jpmorales1999/2-Semestre/tree/master/Estructura%20de%20Datos%20I/Corte-2/Proyecto) |
+
 
 ## Corte #3 💻🖥
 
