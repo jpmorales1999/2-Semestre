@@ -46,3 +46,8 @@ Repositorio para proyectos y trabajos
 ***Jhon Jhonson***
 
 ![Resultado de imagen para imagen de desarrolladores](http://paprikadigital.com/wp-content/uploads/2014/06/a75fbce0-f0d0-11e3-bd0d-fb2968e64962_desarrollador-web.jpg)
+
+Autor:
+
+Juan Pablo Morales Tames
+Estudiante Ing. de Sistemas
